@@ -10,7 +10,7 @@ Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano  - SP. Atualmente curso 
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="Aizen" height="190px" src="./aizen.gif">
 
 <h3 align="left">Connect with me!</h3>
 
