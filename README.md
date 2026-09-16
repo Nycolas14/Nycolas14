@@ -91,14 +91,14 @@ Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano  - SP. Atualmente curso 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Nycolas14&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
-  />
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=Nycolas14&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=135,050008,16001f,250033&title_color=d946ef&text_color=ffffff&icon_color=c026d3&border_color=a855f7&ring_color=bf00ff&custom_title=My%20GitHub%20Statistics"
+/>
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Nycolas14&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=Nycolas14&layout=compact&custom_title=Stack&langs_count=8&bg_color=135,050008,16001f,250033&title_color=d946ef&text_color=ffffff&icon_color=c026d3&border_color=a855f7"
   />
 
 </p>
