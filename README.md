@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano - SP. Atualmente curso Engenharia de Software na UMC e sou formado como Técnico em Eletromecânica pelo SENAI. Tenho interesse por tecnologia, programação e desenvolvimento de software, com conhecimentos em Java, Python, SQL, Git e GitHub. Também possuo experiência com sistemas de visão industrial utilizando tecnologias da Cognex. Estou sempre buscando aprender novas ferramentas, desenvolver projetos e aprimorar minhas habilidades para crescer profissionalmente na área de tecnologia.
+Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano - SP. Atualmente curso Engenharia de Software na UMC e sou formado como Técnico em Eletromecânica pelo SENAI. Tenho interesse por tecnologia, programação e desenvolvimento de software, com conhecimentos em Java, CSS , Python , JavaScript , SQL, Git e GitHub. Também possuo experiência com sistemas de visão industrial utilizando tecnologias da Cognex. Estou sempre buscando aprender novas ferramentas, desenvolver projetos e aprimorar minhas habilidades para crescer profissionalmente na área de tecnologia.
  
 #
 
