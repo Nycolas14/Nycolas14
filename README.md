@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano  - SP. Atualmente curso Engenharia de Software na UMC . Sou apaixonado por tecnologia, curioso sobre Hardware 
+Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano  - SP. Atualmente curso Engenharia de Software na UMC . 
  
 #
 
