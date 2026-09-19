@@ -25,7 +25,7 @@ Me chamo Nycolas Vieira, tenho 20 anos e moro em Suzano - SP. Atualmente curso E
 
 <img align="right" alt="Aizen" height="190px" src="./aizen.gif">
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Contatos !</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:nycolas.vieira1405@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/nycolas-vieira-55821533a/)
